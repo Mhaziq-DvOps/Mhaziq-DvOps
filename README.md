@@ -19,7 +19,7 @@ Hey there! I’m Haziq, a software engineering student at **University Tun Husse
 - 🌐 To work with amazing people across the globe, sharing knowledge and creating awesome things together.
 
  📫 Reach Me:
-- LinkedIn: (https://www.linkedin.com/in/haziq-sumagi-440210149))
+- LinkedIn: (www.linkedin.com/in/haziqsumagi))
 - Email: muhammadhaziqsumagi@gmail.com
 - 😄 Pronouns: He/Him
 
