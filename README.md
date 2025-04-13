@@ -40,9 +40,8 @@ Hi there! I'm a passionate **Data Analyst** who transforms raw data into powerfu
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 📧 Email: yourname@example.com  
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(if available)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/haziqsumagi/)
+- 📧 Email: muhammadhaziqsumagi@gmail.com  
 
 ---
 
