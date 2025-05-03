@@ -1,6 +1,14 @@
 # 📊 Welcome to my github profile!
 
-Hi there! I'm a passionate **Data Analyst** who transforms raw data into powerful insights using storytelling, visualization, and statistical analysis. Whether it's business intelligence, dashboards, or exploratory analysis—I love turning numbers into narratives.
+# 👋 Hi there!
+
+I'm currently learning and exploring the world of **Data Analysis**, and this project is part of my journey. I'm passionate about finding patterns in data and telling stories through visualization and simple statistics. 
+
+Right now, I'm building my skills using Python, SQL, and data visualization tools such as PowerBI.
+
+This Github reflects my learning progress—and I'm always open to feedback, collaboration, or internship opportunities to grow further as a future **Data Analyst**.
+
+Thanks for checking out my work!
 
 ---
 
