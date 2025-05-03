@@ -12,7 +12,7 @@ Hi there! I'm a passionate **Data Analyst** who transforms raw data into powerfu
 | **SQL** | Querying, transforming, and aggregating data from relational databases. |
 | **Python** | Data analysis and visualization using `pandas`, `matplotlib`, and `seaborn`. |
 | **Excel** | Advanced functions, pivot tables, and quick summaries, power query |
-| **Tableau** *(Optional)* | Visual storytelling with dashboards and trend analysis. |
+| **PowerBI** *(Optional)* | Visual storytelling with dashboards and trend analysis. |
 
 ---
 
