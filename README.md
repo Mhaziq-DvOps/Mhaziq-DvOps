@@ -21,6 +21,7 @@ Hi there! I'm a passionate **Data Analyst** who transforms raw data into powerfu
 | 📁 Project | 🔍 Description |
 |-----------|----------------|
 | [**Sales Dashboard**](https://github.com/Mhaziq-DvOps/DashboardColaCola) | Interactive Power BI dashboard analyzing sales by region, date, and category. |
+| [**Phyton For Data Visualization**]([https://github.com/Mhaziq-DvOps/DashboardColaCola](https://github.com/Mhaziq-DvOps/Phyton-For-Data-Visualization)) | To analyze and visualize taxi data using Python. |
 | [**Customer Segmentation**](#) | Python-based clustering to define customer groups using K-Means. |
 | [**E-commerce SQL Reporting**](#) | SQL project cleaning and querying raw sales data to extract insights. |
 
@@ -46,6 +47,6 @@ Hi there! I'm a passionate **Data Analyst** who transforms raw data into powerfu
 ---
 
 ## ⚡ Fun Fact  
-I believe **data analysis isn't about numbers—it's about impact**. Let's turn raw data into real decisions.
+I believe **data analysis isn't about numbers—it's about impact**. I learnt to explores data to meaningful insights.
 
 ---
