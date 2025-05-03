@@ -20,7 +20,7 @@ Hi there! I'm a passionate **Data Analyst** who transforms raw data into powerfu
 
 | 📁 Project | 🔍 Description |
 |-----------|----------------|
-| [**Sales Dashboard**](#) | Interactive Power BI dashboard analyzing sales by region, date, and category. |
+| [**Sales Dashboard**](https://github.com/Mhaziq-DvOps/DashboardColaCola) | Interactive Power BI dashboard analyzing sales by region, date, and category. |
 | [**Customer Segmentation**](#) | Python-based clustering to define customer groups using K-Means. |
 | [**E-commerce SQL Reporting**](#) | SQL project cleaning and querying raw sales data to extract insights. |
 
