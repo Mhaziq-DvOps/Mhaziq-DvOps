@@ -4,7 +4,7 @@
 
 I'm currently learning and exploring the world of **Data Analysis**, and this project is part of my journey. I'm passionate about finding patterns in data and telling stories through visualization and simple statistics. 
 
-Right now, I'm building my skills using Python, SQL, and data visualization tools such as PowerBI.
+Right now, I'm building my skills using Python, SQL, and data visualization tools such as PowerBI and Tableu.
 
 This Github reflects my learning progress—and I'm always open to feedback, collaboration, or internship opportunities to grow further as a future **Data Analyst**.
 
